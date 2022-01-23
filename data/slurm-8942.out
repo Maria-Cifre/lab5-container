@@ -1,0 +1,47 @@
+-----------------------------------
+Tiempo ejecución 13 k-mers Python
+-----------------------------------
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m1,095s
+user	1m1,043s
+sys	0m0,000s
+
+-----------------------------------
+Tiempo ejecución 14 k-mers Python
+-----------------------------------
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	3m56,511s
+user	3m56,303s
+sys	0m0,003s
+
+-----------------------------------
+Tiempo ejecución 13 k-mers C++
+-----------------------------------
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,565s
+user	0m0,564s
+sys	0m0,001s
+
+-----------------------------------
+Tiempo ejecución 14 k-mers C++
+-----------------------------------
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,254s
+user	0m2,252s
+sys	0m0,000s
